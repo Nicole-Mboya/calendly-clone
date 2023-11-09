@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-image: url("./debby-hudson-TqKFiMR9O6s-unsplash.jpg");
-  backdrop-filter: blur(5px); 
+  backdrop-filter: blur(10px); 
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
