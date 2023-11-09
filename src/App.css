@@ -75,13 +75,28 @@ iframe{
 
 media screen and (max-width: 1024px) {
   /* CSS rules specific to smartphones */
+  #logo {
+  font-size: 12px;
+  }
 .Main-Content{
   margin-left: 2%;
   margin-right: 2%;
   
 }
+  .welcome{
+  font-size:16px;
+}
+
+.message{
+  font-size: 12px;
+}
+.BookMe button{
+  font-size: 16px;
+  
+}
   iframe{
   width: 100%;
+  font-size:12px;
 }
 
 }
