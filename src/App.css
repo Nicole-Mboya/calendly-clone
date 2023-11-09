@@ -21,7 +21,7 @@
   flex-direction: column;
   justify-content: center;
   height: 8.33%;
-  color: #fb11c7;
+  color: #000000;
   background-color:#61dafb;
   padding-left: 16.7%;
   padding-right: 16.7%;
@@ -49,12 +49,13 @@
 }
 .BookMe button{
   font-size: 20px;
-  color: #fb11c7;
+  color: #000000;
   
 }
 iframe{
   height: 700px;
-  width: 100%;
+  margin-left:2%;
+  margin-right:2%;
   font-size: 16px;
 }
 
@@ -84,7 +85,8 @@ media screen and (max-width: 1024px) {
   
 }
   iframe{
-  width:100%;
+  margin-left:2%;
+  margin-right:2%;
   font-size:12px;
 }
 
