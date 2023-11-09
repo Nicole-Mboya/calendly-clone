@@ -73,7 +73,7 @@ iframe{
   color: #61dafb;
 }
 
-media screen and (min-width: 320px) {
+media screen and (max-width: 1024px) {
   /* CSS rules specific to smartphones */
 .Main-Content{
   margin-left: 2%;
