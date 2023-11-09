@@ -95,7 +95,7 @@ media screen and (max-width: 1024px) {
   
 }
   iframe{
-  width: auto;
+  min-width:100%;
   font-size:12px;
 }
 
